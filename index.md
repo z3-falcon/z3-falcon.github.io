@@ -1,35 +1,27 @@
-# **Z3++**
+# **Z3-Falcon**
 
 ## Overview
 
-Z3++ is a derived SMT solver based on [Z3](https://github.com/Z3Prover/z3). It participates in the SMT-COMP 2022, and significantly improves Z3 on the following logics:
+Z3-Falcon is a derived SMT solver based on [Z3](https://github.com/Z3Prover/z3),
 
-QF_IDL, QF_LIA, QF_BV, QF_NIA and QF_NRA
+`QF_BV, QF_UFBV, QF_ABV, QF_AUFBV, QF_FP, QF_BVFP`
 
-It is a project mainly developed in State Key Laboratory of Computer Science, Institute of Software, Chinese Academy of Sciences, Beijing, China.
+It is a project mainly developed in the Automated Reasoning Group, Zhejiang University, Hangzhou, China.
 
-[Detailed description](https://github.com/z3-plus-plus/z3-plus-plus.github.io/blob/main/Z3%2B%2B_at_SMT_COMP_2022.pdf) and source code are available at the github [repository](https://github.com/caiswgroup/z3pp).
 
 ## Contact
 
-z3_plus_plus@outlook.com
+rainoftime@gmaill.com
 
-## Awards
-At the [FLoC Olympic Games](https://smt-comp.github.io/2022/slides.html), Z3++ won 2 gold medals (6 in total)  for Biggest Lead Model Validation and Largest Contribution Model Validation.
+
 ## People
-### Leader:
-[Shaowei Cai](http://lcs.ios.ac.cn/~caisw/).
 
-### Team Members:
-[Bohan Li](https://douglaslee001.github.io/),
-
-Jinkun Lin (SeesMaas Inc.),
-
-Zhonghan Wang,
-
-[Bohua Zhan](https://lcs.ios.ac.cn/~bzhan/),
-
-[Xindi Zhang](https://dezhangxd.github.io/),
-
-Mengyu Zhao.
+rainoftime,
+Xinkai Ma,
+Jiahui Sun
+Siyuan Zhu,
+Rui Chang,
+Yongwang Zhao,
+Wensheng Tang,
+Charles Zhang
 
